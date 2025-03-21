@@ -40,6 +40,8 @@ To run this analysis locally, follow these steps:
 ## Results
 Here are some key findings from the analysis:
 
+**Overall Survival Rate: 38.38%**
+
 ### Survival Rate by Gender
 - **Female**: 74.20%
 - **Male**: 18.89%
