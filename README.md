@@ -74,3 +74,8 @@ Here are some key findings from the analysis:
 - **High Fare**: 62.96%
 
 ![Survival by Fare Category](survival_by_fare.png)
+
+## Correlation Heatmap
+The correlation heatmap below shows the relationships between all relevant features in the Titanic dataset.
+
+![Correlation Heatmap](correlation_heatmap_all_features.png)
