@@ -54,6 +54,12 @@ Here are some key findings from the analysis:
 - **Third Class**: 24.24%
 
 ![Survival by Passenger Class](survival_by_class.png)
+ 
+### Survival Rate by Age Group
+-** Adult**: 38.233955%
+- ** Child**: 53.982301%
+  
+![Survival by Age Group](survival_by_age_group.png)
 
 ### Survival Rate by Embarkation Point
 - **Cherbourg (C)**: 55.36%
